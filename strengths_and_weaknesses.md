@@ -4,3 +4,4 @@
 ## 2) Enables the collaboration in teams 
 # Weaknesses
 ## 1) If you do not pay attention to it, merge conflicts can occur 
+## 2) Git is not designed for all data formats, these must be excluded separately 
